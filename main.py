@@ -1,6 +1,6 @@
-""" DHANUSH REDDY NANDYALA / 20134832
+""" 
 Python Version 3.6.5
-Instruction to run the code provided in main report
+
 """
 
 import numpy as np
